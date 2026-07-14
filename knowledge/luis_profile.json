@@ -1,0 +1,585 @@
+{
+  "domain": "luis_profile",
+  "version": "3.0",
+  "updated_at": "2026-07-12",
+  "profile_status": "Verified working profile",
+  "identity": {
+    "full_name": "Luis Kassem Sanz",
+    "preferred_name": "Luis",
+    "professional_identity": "Independent freelancer, international business-development professional, entrepreneur, multilingual communications specialist, academic teaching contributor and creative professional",
+    "primary_location": "Bratislava, Slovakia",
+    "nationality": "Spanish",
+    "website": "https://lks.wh.sk",
+    "public_contact_policy": "Use only contact details intentionally published on the official freelancer website."
+  },
+  "summary": {
+    "short_bio": "Luis Kassem Sanz is a Spanish multilingual freelancer, entrepreneur and international business-development professional based in Bratislava, Slovakia. His background combines embassy and consular support, international business development, commercial relations, public relations, operations, translation and interpretation, academic course delivery, technology training, artificial-intelligence projects and creative work.",
+    "professional_overview": "Luis has more than two decades of professional experience across Slovakia, Saudi Arabia and international environments. His work has included diplomatic and administrative support, bilateral-relations development, business development, commercial representation, market research, public relations, sports-services management, account management, project coordination, corporate communications, translation, interpretation and AI-assisted intelligence systems.",
+    "academic_overview": "Between 2015 and 2017, Luis contributed as an assistant professor and teaching assistant to the university courses Colonialism and Orientalism at Matej Bel University in Banská Bystrica, Comenius University in Bratislava and Constantine the Philosopher University in Nitra. His responsibilities included assisting with course preparation and design, presenting course material, supporting the teaching process, helping administer grading systems and evaluating student work.",
+    "technical_overview": "Luis studied telecommunications and electrical-engineering subjects at the Slovak University of Technology in Bratislava and completed additional training in network design, application development and SAP system usage.",
+    "creative_overview": "Luis also has a multilingual creative and performing background involving acting, singing, television, theatre, live entertainment, voice work and media appearances.",
+    "personal_brand_statement": "Luis combines international business experience, multilingual communication, cross-cultural knowledge, academic research, technology, business intelligence and creative production into practical services for companies, institutions and international projects."
+  },
+  "languages": [
+    {
+      "language": "Spanish",
+      "level": "C2 / professional proficiency"
+    },
+    {
+      "language": "English",
+      "level": "C2 / professional proficiency"
+    },
+    {
+      "language": "Slovak",
+      "level": "C2 / professional proficiency"
+    },
+    {
+      "language": "Arabic",
+      "level": "C2 / professional proficiency"
+    },
+    {
+      "language": "German",
+      "level": "A2 / elementary"
+    },
+    {
+      "language": "French",
+      "level": "A1 / beginner"
+    },
+    {
+      "language": "Italian",
+      "level": "A1 / beginner"
+    },
+    {
+      "language": "Hebrew",
+      "level": "Learning"
+    },
+    {
+      "language": "Yiddish",
+      "level": "Learning"
+    }
+  ],
+  "employment_history": [
+    {
+      "organization": "Embassy of the Arab Republic of Egypt in Bratislava",
+      "location": "Bratislava, Slovakia",
+      "roles": [
+        "Translator and Consular Assistant",
+        "Secretary",
+        "Political and Social Adviser"
+      ],
+      "period": {
+        "start": "2014-02",
+        "end": "2026-03"
+      },
+      "responsibilities": [
+        "Translation and interpretation",
+        "Consular support",
+        "Commercial and administrative support",
+        "Human-resources administration",
+        "Procurement and payroll support",
+        "Presentation preparation",
+        "Meeting and conference support",
+        "Event-management support",
+        "Market surveys",
+        "Development of business and commercial relations",
+        "Support for bilateral relations between Slovakia and Egypt",
+        "Tourism-promotion support",
+        "Website and social-media administration",
+        "Filing and data management",
+        "Embassy premises and technical-maintenance coordination"
+      ],
+      "verification_status": "Verified by professional CV"
+    },
+    {
+      "organization": "Elite Agency s.r.o.",
+      "location": "Slovakia",
+      "role": "Business Development Director",
+      "period": {
+        "start": "2013-11",
+        "end": "2015-01"
+      },
+      "responsibilities": [
+        "International business development",
+        "Public relations",
+        "Commercial relationship development"
+      ],
+      "verification_status": "Verified by professional CV"
+    },
+    {
+      "organization": "Sport Expert",
+      "location": "Riyadh, Saudi Arabia",
+      "role": "Business Development Manager",
+      "period": {
+        "start": "2010-10",
+        "end": "2012-05"
+      },
+      "responsibilities": [
+        "Business development",
+        "Commercial relationship management",
+        "Corporate representation",
+        "Sports-business development"
+      ],
+      "verification_status": "Verified by professional CV and employer reference"
+    },
+    {
+      "organization": "Future Communications Guidance International and Arabic Computer Systems, National Technology Group",
+      "location": "Riyadh, Saudi Arabia",
+      "roles": [
+        "Business Development Manager",
+        "Sports Services Manager",
+        "Real Madrid Account Manager"
+      ],
+      "period": {
+        "start": "2009-11",
+        "end": "2012-07"
+      },
+      "responsibilities": [
+        "Business development",
+        "Sports-services management",
+        "Strategic-account management",
+        "Client and partner relations",
+        "Commercial coordination"
+      ],
+      "verification_status": "Verified by employer certificates and business-card evidence"
+    },
+    {
+      "organization": "Saudi Sabk / Reem International Circuit",
+      "location": "Riyadh, Saudi Arabia",
+      "role": "Assistant Club Director and Marketing Communications Executive",
+      "period": {
+        "start": "2007-11",
+        "end": "2009-07"
+      },
+      "responsibilities": [
+        "Club operations support",
+        "Marketing communications",
+        "Partner relations",
+        "Event coordination",
+        "Commercial representation"
+      ],
+      "verification_status": "Verified by professional CV, contract evidence, business-card evidence and Audi recognition"
+    }
+  ],
+  "academic_experience": [
+    {
+      "role": "Assistant Professor / Teaching Assistant",
+      "period": {
+        "start": "2015",
+        "end": "2017"
+      },
+      "courses": [
+        "Colonialism",
+        "Orientalism"
+      ],
+      "universities": [
+        {
+          "name": "Matej Bel University",
+          "city": "Banská Bystrica",
+          "country": "Slovakia"
+        },
+        {
+          "name": "Comenius University",
+          "city": "Bratislava",
+          "country": "Slovakia"
+        },
+        {
+          "name": "Constantine the Philosopher University",
+          "city": "Nitra",
+          "country": "Slovakia"
+        }
+      ],
+      "faculty_context": [
+        "International relations",
+        "Law",
+        "Related social-science programs"
+      ],
+      "responsibilities": [
+        "Assisted in preparing and designing two university courses",
+        "Presented course content to university students",
+        "Supported classroom teaching and academic discussion",
+        "Helped develop and administer grading systems",
+        "Evaluated student work",
+        "Supported course coordination across three Slovak universities"
+      ],
+      "verification_status": "User-confirmed; supported by CV; individual university certificates pending upload",
+      "date_note": "The current profile uses the user's corrected period 2015-2017. An older CV listed 2015-2018."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Slovak University of Technology in Bratislava",
+      "faculty": "Faculty of Electrical Engineering and Information Technology",
+      "field": "Telecommunications and electrical-engineering studies",
+      "period": {
+        "start": "1995",
+        "end": "2013"
+      },
+      "verified_subjects": [
+        "Linear Algebra",
+        "Calculus I",
+        "Calculus II",
+        "Computer Programming I",
+        "Computer Programming II",
+        "Physics I",
+        "Physics II",
+        "Electric Circuits I",
+        "Computer Organization",
+        "Safety and Engineering"
+      ],
+      "verification_status": "Verified by university certificate and professional CV",
+      "completion_note": "The profile records study history and verified coursework without claiming an academic degree unless a diploma is separately provided."
+    },
+    {
+      "institution": "Suleymaniah High School",
+      "field": "General Sciences",
+      "period": {
+        "start": "1992",
+        "end": "1995"
+      },
+      "verification_status": "Recorded in professional CV"
+    }
+  ],
+  "courses_and_certifications": [
+    {
+      "title": "SAP for Users I — Fundamentals and System Operation",
+      "provider": "IT Learning Slovakia s.r.o.",
+      "location": "Bratislava, Slovakia",
+      "date": "2017-11-28",
+      "level": "Basic user training",
+      "verification_status": "Verified by certificate"
+    },
+    {
+      "title": "Network Design and Application Development Training",
+      "provider": "International Network Engineering",
+      "date_range": {
+        "start": "1999-08-01",
+        "end": "1999-09-01"
+      },
+      "verification_status": "Verified by certificate"
+    }
+  ],
+  "awards_and_recognition": [
+    {
+      "issuer": "Audi Samaco",
+      "country": "Saudi Arabia",
+      "recognition": "Award for partnership and outstanding cooperation during 2007",
+      "presented_to": "Luis K. Sanz",
+      "date": "2008-02",
+      "verification_status": "Verified by photographed award"
+    }
+  ],
+  "entrepreneurship": {
+    "companies_founded": [
+      {
+        "name": "AKS MODELS spol. s r.o.",
+        "founded": "2007",
+        "role": "Founder",
+        "description": "A separate Slovak legal company associated with model management, casting, representation, business development and international commercial activity.",
+        "website": "https://aksmodels.com",
+        "separation_rule": "AKS MODELS must always be distinguished from Luis Kassem Sanz's independent freelancer activity and from LKS-HUB."
+      }
+    ],
+    "projects": [
+      {
+        "name": "LKS-HUB",
+        "role": "Founder and system architect",
+        "status": "Active development",
+        "description": "Personal freelancer intelligence, knowledge, automation and AI-assistant platform created for Luis Kassem Sanz and lks.wh.sk.",
+        "website": "https://lks.wh.sk"
+      },
+      {
+        "name": "LKS Global Intelligence Platform",
+        "role": "Founder and architect",
+        "status": "Operational prototype",
+        "description": "A free-first intelligence system combining RSS collection, duplicate detection, relevance scoring, business intelligence, daily digests, SQLite knowledge storage, retrieval, AI reasoning and social-media drafting."
+      }
+    ]
+  },
+  "professional_competencies": [
+    "International business development",
+    "Commercial and bilateral-relations development",
+    "Business intelligence",
+    "Market research",
+    "Public relations",
+    "Marketing communications",
+    "Corporate representation",
+    "Operations management",
+    "Project coordination",
+    "Human-resources administration",
+    "Procurement support",
+    "Event and conference coordination",
+    "Translation and interpretation",
+    "Consular and diplomatic-administrative support",
+    "Cross-cultural communication",
+    "Middle East business support",
+    "European market support",
+    "Corporate correspondence",
+    "Team building and motivation",
+    "Research and development",
+    "Artificial-intelligence workflow design",
+    "Automation architecture"
+  ],
+  "software_and_technical_skills": [
+    {
+      "skill": "Microsoft Word",
+      "level": "Expert"
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "level": "Expert"
+    },
+    {
+      "skill": "Microsoft Excel",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Microsoft Outlook",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Microsoft Windows",
+      "level": "Expert"
+    },
+    {
+      "skill": "Mac OS",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Adobe Illustrator",
+      "level": "Advanced"
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "level": "Advanced"
+    },
+    {
+      "skill": "CorelDRAW",
+      "level": "Advanced"
+    },
+    {
+      "skill": "SDL Trados",
+      "level": "Advanced"
+    },
+    {
+      "skill": "SAP",
+      "level": "Basic"
+    },
+    {
+      "skill": "UNIX/Linux",
+      "level": "Basic"
+    },
+    {
+      "skill": "AutoCAD",
+      "level": "Basic"
+    },
+    {
+      "skill": "C++",
+      "level": "Basic"
+    },
+    {
+      "skill": "PHP",
+      "level": "Basic"
+    },
+    {
+      "skill": "HTML",
+      "level": "Basic"
+    },
+    {
+      "skill": "XML",
+      "level": "Basic"
+    }
+  ],
+  "creative_background": {
+    "professional_profile": "Multilingual actor, performer, singer and voice talent with experience in film, television, theatre, radio, music and live entertainment across Europe and the Middle East.",
+    "acting_and_media": [
+      {
+        "production": "Urban Menace",
+        "year": "1998",
+        "type": "Film",
+        "credit": "Extra"
+      },
+      {
+        "production": "Antonius & Cleopatra",
+        "period": "2001-2003",
+        "type": "Theatre",
+        "venue": "Divadlo P. O. Hviezdoslava, Bratislava"
+      },
+      {
+        "production": "Children's Choice / Ahlan wa Sahlan",
+        "period": "1987-1989",
+        "type": "Television",
+        "country": "Saudi Arabia"
+      },
+      {
+        "production": "Slávici na ulici",
+        "year": "1998",
+        "type": "Television",
+        "broadcaster": "TV Markíza",
+        "credit": "Participant"
+      },
+      {
+        "production": "Vyvolení",
+        "year": "2004",
+        "type": "Television",
+        "broadcaster": "TV JOJ",
+        "credit": "Contestant"
+      }
+    ],
+    "music": [
+      {
+        "title": "EMPEZAMOS",
+        "year": "2006",
+        "type": "Debut music album"
+      },
+      {
+        "activity": "Live singing and concerts",
+        "period": "2005-2007"
+      }
+    ],
+    "additional_capabilities": [
+      "Voice-over",
+      "Multilingual performance",
+      "Public speaking",
+      "Spanish guitar",
+      "Commercial productions",
+      "Corporate productions",
+      "Stage performance"
+    ]
+  },
+  "interests": [
+    "Business",
+    "Macroeconomics",
+    "Science",
+    "Technology",
+    "Social trends",
+    "History",
+    "Mountain biking",
+    "Hiking",
+    "Calisthenics",
+    "Classical literature"
+  ],
+  "driving": {
+    "license_category": "B"
+  },
+  "evidence_register": [
+    {
+      "document": "Luis Kassem Sanz CVEN-PRO.pdf",
+      "supports": [
+        "Employment history",
+        "Education",
+        "Academic teaching",
+        "Languages",
+        "Skills",
+        "Courses",
+        "Professional competencies"
+      ]
+    },
+    {
+      "document": "FCGI ref.pdf",
+      "supports": [
+        "Business Development Manager role",
+        "Saudi Arabia employment period"
+      ]
+    },
+    {
+      "document": "FCGI ref 2.pdf",
+      "supports": [
+        "Real Madrid Account Manager role"
+      ]
+    },
+    {
+      "document": "Sport Expert ref.pdf",
+      "supports": [
+        "Business Development Manager role at Sport Expert"
+      ]
+    },
+    {
+      "document": "KSA Bus. Cards.pdf",
+      "supports": [
+        "Saudi Arabia job titles and business affiliations"
+      ]
+    },
+    {
+      "document": "Saudi Sabk AUDI award.pdf",
+      "supports": [
+        "Audi recognition for cooperation"
+      ]
+    },
+    {
+      "document": "SAUDI SABK ref 1.pdf",
+      "supports": [
+        "Saudi Sabk contractual relationship"
+      ]
+    },
+    {
+      "document": "SAP-I.pdf",
+      "supports": [
+        "SAP for Users I training"
+      ]
+    },
+    {
+      "document": "INE ref.pdf",
+      "supports": [
+        "Network Design and Application Development training"
+      ]
+    },
+    {
+      "document": "1st & 2nd year FEI-STU certificate.pdf",
+      "supports": [
+        "Slovak University of Technology coursework"
+      ]
+    },
+    {
+      "document": "University teaching certificates",
+      "supports": [
+        "Colonialism and Orientalism teaching work at three Slovak universities"
+      ],
+      "status": "Pending upload"
+    }
+  ],
+  "public_information": {
+    "allowed_topics": [
+      "Professional background",
+      "Freelancer services",
+      "Employment history",
+      "Academic work",
+      "Projects",
+      "Languages",
+      "Business experience",
+      "International-market experience",
+      "Creative and artistic background",
+      "AKS MODELS public company information",
+      "LKS-HUB development",
+      "Awards and verified training"
+    ],
+    "restricted_topics": [
+      "Private home address",
+      "Date of birth unless explicitly required and approved",
+      "Passport or identity numbers",
+      "Residence-permit numbers",
+      "Salary information",
+      "Passwords or credentials",
+      "Banking information",
+      "Private family information",
+      "Medical information",
+      "Confidential client information",
+      "Unpublished agreements"
+    ]
+  },
+  "assistant_guidance": {
+    "preferred_name": "Luis",
+    "tone": "Professional, warm, confident and factual",
+    "response_rules": [
+      "Do not invent achievements, clients, qualifications, degrees or certifications.",
+      "Clearly distinguish Luis Kassem Sanz from AKS MODELS spol. s r.o.",
+      "Use the freelancer website context for Luis-specific services.",
+      "Treat AKS MODELS as a separate legal company and future separate HUB.",
+      "Describe the university role as Assistant Professor or Teaching Assistant for Colonialism and Orientalism.",
+      "Use 2015-2017 as the corrected teaching period unless university certificates establish different dates.",
+      "Do not claim that Luis completed a university degree unless a diploma confirms it.",
+      "Present artistic credits accurately without exaggerating role importance.",
+      "Never reveal identity-document numbers, salary data, home addresses or other restricted information.",
+      "When information is incomplete, state that it has not yet been added to the verified knowledge base."
+    ]
+  }
+}

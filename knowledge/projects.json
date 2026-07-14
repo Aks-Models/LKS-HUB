@@ -1,0 +1,324 @@
+{
+  "domain": "projects",
+  "version": "2.0",
+  "updated_at": "2026-07-13",
+  "portfolio_owner": "Luis Kassem Sanz",
+  "projects": [
+    {
+      "name": "LKS-HUB",
+      "official_name": "LKS-HUB",
+      "project_type": "Personal freelancer intelligence, knowledge and automation platform",
+      "status": "Active development",
+      "owner": "Luis Kassem Sanz",
+      "role": "Founder, project architect and system developer",
+      "primary_website": "https://lks.wh.sk",
+      "repository_scope": "Personal freelancer platform for Luis Kassem Sanz",
+      "summary": "LKS-HUB is the intelligence, knowledge-management, automation and AI-assistant platform created to support Luis Kassem Sanz's freelancer website, services, business intelligence, content workflows and digital presence.",
+      "objectives": [
+        "Provide relevant curated intelligence for the Insights section of lks.wh.sk",
+        "Enable website visitors to ask questions about Luis Kassem Sanz",
+        "Explain Luis's verified professional background and services",
+        "Answer questions using structured personal, services, projects and news knowledge",
+        "Generate business-intelligence summaries",
+        "Prepare social-media content drafts",
+        "Support future automation workflows",
+        "Build a long-term searchable knowledge base"
+      ],
+      "architecture": {
+        "pipeline": [
+          "RSS collection",
+          "Duplicate detection",
+          "AI-style relevance scoring",
+          "Business-intelligence generation",
+          "Daily-digest generation",
+          "SQLite knowledge storage",
+          "Knowledge-domain indexing",
+          "Intent routing",
+          "Unified retrieval",
+          "AI reasoning",
+          "Website export",
+          "Social-media draft generation"
+        ],
+        "knowledge_domains": [
+          "News intelligence",
+          "Luis Kassem Sanz profile",
+          "Freelancer services",
+          "Projects",
+          "Future website content",
+          "Future business documents"
+        ],
+        "delivery_channels": [
+          "lks.wh.sk Insights section",
+          "LKS website AI assistant",
+          "Business-intelligence reports",
+          "LinkedIn draft content",
+          "Facebook draft content",
+          "Instagram draft content"
+        ]
+      },
+      "completed_components": [
+        {
+          "name": "RSS Collector",
+          "status": "Operational",
+          "description": "Collects current articles from modular RSS feed categories."
+        },
+        {
+          "name": "Duplicate Detector",
+          "status": "Operational",
+          "description": "Removes duplicate articles before further processing."
+        },
+        {
+          "name": "AI Relevance Scorer",
+          "status": "Operational",
+          "description": "Assigns relevance scores and priority levels using a free-first rule-based system."
+        },
+        {
+          "name": "Business Intelligence Engine",
+          "status": "Operational",
+          "description": "Groups and presents high-value intelligence by category."
+        },
+        {
+          "name": "Daily Digest Generator",
+          "status": "Operational",
+          "description": "Creates a compact daily intelligence digest."
+        },
+        {
+          "name": "Website Export",
+          "status": "Operational",
+          "description": "Exports curated intelligence into website-ready JSON."
+        },
+        {
+          "name": "Local Intelligence Dashboard",
+          "status": "Operational",
+          "description": "Displays searchable and filterable intelligence using the approved LKS-HUB visual design."
+        },
+        {
+          "name": "SQLite Knowledge Base",
+          "status": "Operational",
+          "description": "Stores accumulated news intelligence and structured knowledge items."
+        },
+        {
+          "name": "Knowledge Search",
+          "status": "Operational",
+          "description": "Searches stored intelligence using natural-language keywords."
+        },
+        {
+          "name": "Knowledge Retriever",
+          "status": "Operational",
+          "description": "Retrieves relevant news and structured personal knowledge."
+        },
+        {
+          "name": "Intent Router",
+          "status": "Operational",
+          "description": "Determines whether a question concerns Luis, services, projects, news or multiple domains."
+        },
+        {
+          "name": "Unified Retriever",
+          "status": "Operational",
+          "description": "Searches personal knowledge and news through one consolidated retrieval interface."
+        },
+        {
+          "name": "LKS AI Assistant",
+          "status": "Operational prototype",
+          "description": "Provides focused local answers based on verified structured knowledge and stored intelligence."
+        },
+        {
+          "name": "Social Post Generator",
+          "status": "Operational prototype",
+          "description": "Creates draft LinkedIn, Facebook and Instagram content from selected intelligence."
+        }
+      ],
+      "rss_categories": [
+        "World",
+        "Business",
+        "Finance",
+        "Artificial Intelligence",
+        "Technology",
+        "Security",
+        "Science",
+        "Space",
+        "Middle East",
+        "Slovakia",
+        "Politics",
+        "Fashion",
+        "Casting",
+        "Culture"
+      ],
+      "technology": [
+        "Python",
+        "SQLite",
+        "JSON",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "RSS",
+        "Local HTTP server",
+        "Rule-based natural-language retrieval"
+      ],
+      "development_principles": [
+        "Free-first",
+        "Modular",
+        "Source-based",
+        "Privacy-conscious",
+        "No invented facts",
+        "Separation of knowledge domains",
+        "Human approval before public publishing",
+        "Designed for later LLM integration"
+      ],
+      "current_limitations": [
+        "The current assistant uses local rule-based reasoning rather than a full language model",
+        "Semantic vector search has not yet been implemented",
+        "Social-media posts are drafts and are not automatically published",
+        "The production website integration is not yet complete",
+        "Knowledge quality depends on the completeness of verified source files"
+      ],
+      "next_development_phases": [
+        "Complete verified personal and services knowledge",
+        "Improve general-purpose advisory response generation",
+        "Add website-content knowledge",
+        "Create an assistant-facing local API",
+        "Embed the assistant into lks.wh.sk",
+        "Deploy the Insights module to lks.wh.sk",
+        "Introduce approval workflows for social-media content",
+        "Add semantic retrieval or LLM integration when appropriate"
+      ],
+      "assistant_rules": [
+        "Describe LKS-HUB as Luis Kassem Sanz's personal freelancer platform.",
+        "Do not describe LKS-HUB as an AKS Models company system.",
+        "Do not claim that prototype features are fully deployed when they are only operational locally.",
+        "Explain current limitations honestly.",
+        "Distinguish automated draft generation from automatic public posting."
+      ]
+    },
+    {
+      "name": "LKS Global Intelligence Platform",
+      "project_type": "Business-intelligence subsystem within LKS-HUB",
+      "status": "Operational local prototype",
+      "owner": "Luis Kassem Sanz",
+      "role": "Founder and architect",
+      "website_destination": "https://lks.wh.sk",
+      "summary": "The LKS Global Intelligence Platform collects and filters public information, stores it in a searchable knowledge base and presents selected intelligence through a dashboard and future website Insights section.",
+      "functions": [
+        "Global RSS monitoring",
+        "Category-based intelligence collection",
+        "Duplicate removal",
+        "Relevance scoring",
+        "Priority classification",
+        "Business-intelligence summaries",
+        "Daily intelligence digests",
+        "Long-term SQLite storage",
+        "Topic search",
+        "Website data export",
+        "Social-media draft generation"
+      ],
+      "intended_users": [
+        "Luis Kassem Sanz",
+        "Visitors to lks.wh.sk",
+        "Potential consulting clients",
+        "Business-development contacts",
+        "Organizations seeking curated international intelligence"
+      ],
+      "assistant_rules": [
+        "Do not present every collected article as an endorsement.",
+        "Distinguish source reporting from LKS-HUB analysis.",
+        "Mention sources where available.",
+        "Avoid claiming real-time coverage unless the latest pipeline run is current."
+      ]
+    },
+    {
+      "name": "LKS Website AI Assistant",
+      "project_type": "Website knowledge and advisory assistant",
+      "status": "Local prototype",
+      "owner": "Luis Kassem Sanz",
+      "website_destination": "https://lks.wh.sk",
+      "summary": "The LKS Website AI Assistant is intended to answer visitor questions about Luis Kassem Sanz, his verified background, services, projects and relevant current intelligence.",
+      "knowledge_scope": [
+        "Luis Kassem Sanz professional profile",
+        "Academic experience",
+        "Employment history",
+        "International and Saudi Arabia experience",
+        "Freelancer services",
+        "LKS-HUB projects",
+        "Curated news intelligence",
+        "Future website pages and frequently asked questions"
+      ],
+      "planned_capabilities": [
+        "Answer general questions about Luis",
+        "Recommend relevant freelancer services",
+        "Explain how Luis may support a potential client",
+        "Summarize current intelligence",
+        "Answer topic-specific news questions",
+        "Prepare consultation-oriented responses",
+        "Generate approval-ready social-media drafts"
+      ],
+      "response_policy": [
+        "Use verified knowledge only",
+        "Do not invent experience, qualifications, prices or availability",
+        "Do not expose restricted personal information",
+        "Explain uncertainty when information is incomplete",
+        "Recommend an initial consultation when project scope requires clarification"
+      ]
+    },
+    {
+      "name": "lks.wh.sk",
+      "project_type": "Official freelancer website",
+      "status": "Live and under development",
+      "owner": "Luis Kassem Sanz",
+      "website": "https://lks.wh.sk",
+      "purpose": "Present Luis Kassem Sanz's professional identity, services, background, projects, Insights and future AI assistant.",
+      "planned_intelligence_features": [
+        "Insights section",
+        "Curated intelligence articles",
+        "Topic search and filtering",
+        "LKS AI Assistant",
+        "Service recommendations",
+        "Contact and consultation conversion",
+        "Business-intelligence content",
+        "Approved social-media content workflow"
+      ],
+      "separation_rule": "This website represents Luis Kassem Sanz as an independent freelancer. It must not be presented as the corporate website of AKS MODELS."
+    },
+    {
+      "name": "AKS MODELS",
+      "legal_name": "AKS MODELS spol. s r.o.",
+      "project_type": "Separate company and future separate intelligence ecosystem",
+      "status": "Active company; website live and in progress",
+      "founder": "Luis Kassem Sanz",
+      "website": "https://aksmodels.com",
+      "summary": "AKS MODELS is a separate Slovak legal company founded by Luis Kassem Sanz. Its company website and future AI infrastructure must remain distinct from Luis's personal freelancer platform.",
+      "future_architecture": {
+        "planned_hub": "AKS-HUB",
+        "planned_repository": "Separate from LKS-HUB",
+        "planned_knowledge_base": "Company-specific",
+        "planned_assistant": "AKS Models company assistant",
+        "planned_website_destination": "https://aksmodels.com"
+      },
+      "possible_future_capabilities": [
+        "Company-profile assistant",
+        "Model and casting information",
+        "Company-service information",
+        "Industry intelligence",
+        "Fashion and casting insights",
+        "Business-development information",
+        "Company social-media workflows"
+      ],
+      "separation_rules": [
+        "AKS MODELS is a separate legal entity.",
+        "Do not merge the AKS Models company profile with Luis's freelancer identity.",
+        "Do not use LKS-HUB as the permanent company repository.",
+        "Company-specific data should later be transferred into AKS-HUB.",
+        "Shared intelligence infrastructure may be reused technically, but branding, knowledge and governance must remain separate."
+      ]
+    }
+  ],
+  "assistant_guidance": {
+    "response_rules": [
+      "Answer project questions using the specific project record rather than listing unrelated projects.",
+      "Clearly distinguish active, prototype, planned and completed functionality.",
+      "Never describe social-media drafting as automatic publishing unless publishing integration is actually enabled.",
+      "Do not confuse lks.wh.sk with aksmodels.com.",
+      "Do not confuse LKS-HUB with the future AKS-HUB.",
+      "When discussing website deployment, explain that the current dashboard and assistant are local prototypes unless deployment has been confirmed."
+    ]
+  }
+}

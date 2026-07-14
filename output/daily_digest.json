@@ -1,0 +1,650 @@
+{
+  "generated_at": "2026-07-09T19:38:51.338284+00:00",
+  "title": "LKS HUB Daily Intelligence Digest",
+  "sections": [
+    {
+      "category": "Business",
+      "headline": "Top Business developments",
+      "articles": [
+        {
+          "title": "Stock Market Today: Dow Builds Gains Amid U.S.-Iran News; Arm, Dell Lead Upside (Live Coverage) - Investor's Business Daily",
+          "source": "Google News Business",
+          "published": "Thu, 09 Jul 2026 17:10:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREwyaFhQbTlOYUlKWF8xRmY3dm9iaGdXdXhLVjVaZ2pvTUZHWWRyamp6TTB6bFFlRzNGazBKcm1kd25sUU9wTHFrRFNMY1FYT2dxS0V1MFFVZXA3S2xiQ1dwbjNBSE9FeElEVkRXMDN4N3kzVElEb0tWSjVnLWREYnh2S0ZtbzJqRmZVWmkzQVhGRmRpSzRody1lX1FodlZCZlBnOGVsZw?oc=5",
+          "ai_score": 75,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Interest rates may need to rise this year, says Bank of England economist",
+          "source": "BBC Business",
+          "published": "Thu, 09 Jul 2026 17:37:11 GMT",
+          "link": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "How can I get air conditioning in my home and how much does it cost?",
+          "source": "BBC Business",
+          "published": "Thu, 09 Jul 2026 10:00:08 GMT",
+          "link": "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo?at_medium=RSS&at_campaign=rss",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Porn site company fined £630,000 over failed age checks",
+          "source": "BBC Business",
+          "published": "Thu, 09 Jul 2026 11:29:31 GMT",
+          "link": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Jackdaw boss warns of winter fuel shortage risk if gas field not approved",
+          "source": "BBC Business",
+          "published": "Thu, 09 Jul 2026 10:20:40 GMT",
+          "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "headline": "Top Technology developments",
+      "articles": [
+        {
+          "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+          "source": "TechCrunch",
+          "published": "Thu, 09 Jul 2026 18:22:39 +0000",
+          "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+          "ai_score": 100,
+          "priority_level": "High"
+        },
+        {
+          "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+          "source": "TechCrunch",
+          "published": "Thu, 09 Jul 2026 19:05:58 +0000",
+          "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+          "ai_score": 85,
+          "priority_level": "High"
+        },
+        {
+          "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+          "source": "Ars Technica",
+          "published": "Thu, 09 Jul 2026 18:57:53 +0000",
+          "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+          "ai_score": 85,
+          "priority_level": "High"
+        },
+        {
+          "title": "Google will now disclose which ads are made with AI",
+          "source": "TechCrunch",
+          "published": "Thu, 09 Jul 2026 18:40:51 +0000",
+          "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+          "ai_score": 80,
+          "priority_level": "High"
+        },
+        {
+          "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+          "source": "TechCrunch",
+          "published": "Thu, 09 Jul 2026 18:34:35 +0000",
+          "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+          "ai_score": 80,
+          "priority_level": "High"
+        }
+      ]
+    },
+    {
+      "category": "Security",
+      "headline": "Top Security developments",
+      "articles": [
+        {
+          "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+          "source": "BleepingComputer",
+          "published": "Thu, 09 Jul 2026 13:00:00 -0400",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+          "ai_score": 100,
+          "priority_level": "High"
+        },
+        {
+          "title": "Mount Royal University confirms breach as hackers claim attack",
+          "source": "BleepingComputer",
+          "published": "Wed, 08 Jul 2026 17:26:59 -0400",
+          "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+          "ai_score": 100,
+          "priority_level": "High"
+        },
+        {
+          "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+          "source": "Krebs on Security",
+          "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+          "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+          "ai_score": 90,
+          "priority_level": "High"
+        },
+        {
+          "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+          "source": "Krebs on Security",
+          "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+          "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+          "ai_score": 85,
+          "priority_level": "High"
+        },
+        {
+          "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+          "source": "Krebs on Security",
+          "published": "Mon, 25 May 2026 13:21:49 +0000",
+          "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+          "ai_score": 85,
+          "priority_level": "High"
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "headline": "Top Science developments",
+      "articles": [
+        {
+          "title": "SpaceX stock in focus as launch, Starlink business hit new milestones - Yahoo Finance",
+          "source": "Google News Science",
+          "published": "Thu, 09 Jul 2026 15:32:25 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVVFWFVueXFwMTRTSWVfYUZZVFpZaVRWbFJDc2d6X2N3cUVNMVdab0NVOTJETXhOdTd2WFAxWHJhd0N5X3RySXYtSThKWXkyemVsRzNxUmFmUFVxWDZXNm9vckZxYUlPZGJpTUxxTjdtaFMwY2pJcEVQRXlLLWlDaXFZSUdqNjZXVG1FVjQ3d0RYRWpBV3pPZmFzSWwxdTFrZ3h5VDYyUkJkY0E2cnFVZWF3TzFxU1hiT1c2Y3FLaVAzYkVKV1hnUUk2ZGw?oc=5",
+          "ai_score": 90,
+          "priority_level": "High"
+        },
+        {
+          "title": "In a 3.5-billion-year-old clay-rich rock from Gale Crater, NASA’s Curiosity rover identified 21 carbon-based molecules — including a nitrogen-bearing ring structure linked to the chemistry that can precede RNA and DNA — showing that ancient Martian sedime - Space Daily",
+          "source": "Google News Science",
+          "published": "Wed, 08 Jul 2026 11:48:05 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQUEhUeS1TSGtzS3VPV01DT0VsYWN1WUVfVzE4dXVBeFljeXFjOVJkcm1GakZmaTlIZ2VXT3BaZW80Q2x6czFVQThfLVF3cnlCa2ktMlBUWFNmMHI4Y2FCOUc5QlpCb0pBN2ZvVVVYbFpLQzUzUVB4SklhbmE0cVZ6bjZnektodzhLOVpPN0pudnVQQnhyc2VWQ3FRWTNQa3ZGNnFiWWpJWGJsekEwczhCcEpBdDRzekRHalo1V3FyZ29nY2l3cUR0VkpETmFuMFdKWGtCcURqbXJPSmkyTF9sZF9mTkNrOW4xZFZwaWd5U3BQTUdtUGV1d3VtaDE3cmI0cVRKdUE2WWpLLUF2SmF3bGpFazR5NWJnY3VWbkV5bjZYdXdEV2hfaGxMcUIxSmM?oc=5",
+          "ai_score": 85,
+          "priority_level": "High"
+        },
+        {
+          "title": "A Chinese Spacecraft Captures First Image of Quasi-Moon - The New York Times",
+          "source": "Google News Science",
+          "published": "Thu, 09 Jul 2026 15:10:05 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pRmY1QXN2TFZuUkNfWWVyd1pYdTVLcTBoX2doV0lselVOaTdJSERlS2hNbU9LdHFRa3B3dFhBR3pRam9uRjZsal9oRHZfS3NONDBURkIxZnEydHFVQ3N4LTgyampkWEF6Z2wydmVoLWVBUFB5UUh6by1B?oc=5",
+          "ai_score": 55,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Sick of Earth? NASA is recruiting volunteers for a yearlong Moon and Mars simulation - CNN",
+          "source": "Google News Science",
+          "published": "Thu, 09 Jul 2026 13:43:28 GMT",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rc0RJQWxoVktiaG4zeFBpT2RiZHBNYjRmUlRTdEFrSnlaejFoRld6M0l4LUhwMDFkdlB5dXY0czhmM0dSbDE2SVdoU05XR25mSkV3N1FMYnUxdndXaWZuR3lUSXlWTWZlRURPNnlHRk5aVWlkUDEwTXgzQnVIa28?oc=5",
+          "ai_score": 55,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Astronomers perplexed by new James Webb Space Telescope photos unveiling secrets of a galaxy 11 million lig... - Yahoo",
+          "source": "Google News Science",
+          "published": "Wed, 08 Jul 2026 07:15:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYllUOFE2R3RBWGk3ai1CcWNPajNjOXliRE1VU1FYQTh3bDk1QlctLWI1a0Fhb1RHZmk3bVVsVkxBZG1Vb1NEaUJFdlpfbGk1N21Udi04NkNpWHR6em1pSzF5R3RmSExFRmZmakdfaktIaGF1ZVcwcG1MdEVUdll2ODc1ejNEUEVnZVRLUUVRVFBrTkpYay0zcnZEdlk3dw?oc=5",
+          "ai_score": 55,
+          "priority_level": "Medium"
+        }
+      ]
+    },
+    {
+      "category": "AI",
+      "headline": "Top AI developments",
+      "articles": [
+        {
+          "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+          "source": "VentureBeat AI",
+          "published": "Tue, 13 Jan 2026 13:00:00 GMT",
+          "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+          "ai_score": 80,
+          "priority_level": "High"
+        },
+        {
+          "title": "Where Medicine and Artificial Intelligence Converge - New York Institute of Technology",
+          "source": "Google News AI",
+          "published": "Tue, 07 Jul 2026 16:18:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYm9OcHdIMjNBMVpleHFIdGxhOXZFRHhkUTlsdXVLenpJcFVMN0dvZE5MOTJIbTk4TXdoMF9KRktNNmxWdHBHcF8wWUk0ei0taUxEdm9RNDdLX2czSHJSbTc3cWRTLTB6UjZiZGp2LWxONzNoSVU0b2ctWk92OHJiSzRGS0ZNTTh6a1NSaUdsR2M?oc=5",
+          "ai_score": 75,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Our approach to government and national security partnerships",
+          "source": "OpenAI News",
+          "published": "Wed, 08 Jul 2026 13:30:00 GMT",
+          "link": "https://openai.com/index/government-national-security-partnerships",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "source": "OpenAI News",
+          "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+          "link": "https://openai.com/index/mufg",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Applying Artificial Intelligence and machine learning in precision nutrition - Nature",
+          "source": "Google News AI",
+          "published": "Mon, 06 Jul 2026 09:56:55 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vN2k5ZDZjR3NJR1ZqajlIZHBUZEE1SG5ZVDczb2NZMjZvcG90QWpJRWl6VWhIQ0tZbTcwei1mcTF3MGp0cGpPY3RpVTBUM2pRRjZDNk1fZThVN0dMV21v?oc=5",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        }
+      ]
+    },
+    {
+      "category": "Finance",
+      "headline": "Top Finance developments",
+      "articles": [
+        {
+          "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+          "source": "CNBC Finance",
+          "published": "Thu, 09 Jul 2026 14:00:01 GMT",
+          "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+          "ai_score": 87,
+          "priority_level": "High"
+        },
+        {
+          "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+          "source": "CNBC Finance",
+          "published": "Thu, 09 Jul 2026 18:52:22 GMT",
+          "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+          "ai_score": 72,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "How all 50 U.S. states performed over 20 years of Top States for Business",
+          "source": "CNBC Finance",
+          "published": "Thu, 09 Jul 2026 15:06:21 GMT",
+          "link": "https://www.cnbc.com/2026/07/09/top-states-business-all-time-rankings-since-2007.html",
+          "ai_score": 72,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+          "source": "CNBC Finance",
+          "published": "Thu, 09 Jul 2026 19:29:46 GMT",
+          "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+          "ai_score": 67,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Florida's Palm Beach airport renamed for Trump",
+          "source": "CNBC Finance",
+          "published": "Thu, 09 Jul 2026 18:27:22 GMT",
+          "link": "https://www.cnbc.com/2026/07/09/florida-airport-palm-beach-internationa-donald-j-trump.html",
+          "ai_score": 67,
+          "priority_level": "Medium"
+        }
+      ]
+    },
+    {
+      "category": "Politics",
+      "headline": "Top Politics developments",
+      "articles": [
+        {
+          "title": "Who is Count Binface, aiming to face Farage in by-election?",
+          "source": "BBC Politics",
+          "published": "Wed, 08 Jul 2026 16:16:30 GMT",
+          "link": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss",
+          "ai_score": 80,
+          "priority_level": "High"
+        },
+        {
+          "title": "How Mitch McConnell’s absence complicates the Senate’s business and war funding - The Washington Post",
+          "source": "Google News Politics",
+          "published": "Thu, 09 Jul 2026 16:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGhZdW9xWW5rVlFsTVBtWndxX2hESU9FMl9xbGpVenlLeWlQczFYandnN19DemhKQVpTY1ZSTUhsUFhyM2ZnVGhjNEhmTnNLaU5fbVpuMmdRRFFOLVRqRWxKeGVPOTRpLXpEeldiX3RsUnI5X25ROTFvUUhKcVJKMHUtRHdBWjc3dlRub3prTGpHWFh3bHM1VjFpN2xjb3NuOFV5NTExUW1tbzh0SzRTbUJJZ3hWSmtPZ1FGd2hR?oc=5",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers - ProPublica",
+          "source": "Google News Politics",
+          "published": "Thu, 09 Jul 2026 09:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IYVY2WThIcE9zYVA1TzFpSGIySTJKMkVMRlIwd3NzY3Yya3NiQ0FwdXJqV0JnU2ZQS0M2eUNWMXpPaFRNbmVjSWMtb0tjYll3V1RnTEVObjhRblZmNUVNTHNuWWo2VEl2c3hDdmZQWnU?oc=5",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "The Brexit decade – Britain, Europe and the question of political identity - The London School of Economics and Political Science",
+          "source": "EU Politics",
+          "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkh1bUZFQWhwOW5HZ1Q5elF5cUhzcldtWDNhMUhKN1o0aTVkY1VkWXZjRUpWMkJ0OVYtRE1OOWNXWEkxZHl1SFVwVlhvb0VDNmVmQ0xWWnp6OUtYcW55Q1hycmx2TW9vYWNjTnhIVkctX2M4Z0FnbkpFUHk0blVBVDE2ZktkaHYwbnR5VXpXdjJvT0Q1YlNEWS1R?oc=5",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Burnham apologises for Labour's initial response to Gaza war",
+          "source": "BBC Politics",
+          "published": "Thu, 09 Jul 2026 17:56:04 GMT",
+          "link": "https://www.bbc.co.uk/news/articles/cvg5yrkeed1o?at_medium=RSS&at_campaign=rss",
+          "ai_score": 65,
+          "priority_level": "Medium"
+        }
+      ]
+    },
+    {
+      "category": "World",
+      "headline": "Top World developments",
+      "articles": [
+        {
+          "title": "War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters",
+          "source": "Reuters World",
+          "published": "Thu, 09 Jul 2026 19:02:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjhUa3pVV3JMQjc0TG9ENzJldjBjZkxnV0ZwcTdyMy1YOFY0aU95c25idlRET0ItN2VQWTZIY05WZF9SclF2bFRadl91MGFkdGVnWC1sckRGWkNoamtuU0xjb1dIRVVkR1kzMlNpUUNFd01DZ1k2Qm81bXdPbUFsaVUtaEpNdmxHMEM3eV85amNxLWhsSzdTOXhEUHltUkNDVzNYMEQ5VjY?oc=5",
+          "ai_score": 85,
+          "priority_level": "High"
+        },
+        {
+          "title": "A timeline of territorial shifts in Ukraine war - AP News",
+          "source": "Associated Press Top News",
+          "published": "Wed, 15 May 2024 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEE4SWgtZEt2V1ZvRFdwZmxLNFNJeXgwelpmc2dXMGhZeV9HSVVkT3ZaYW5fZkR4TV94R2JFN0JvbEwtblViSUladnV6Wi02ejJmVGczMktnUEVlQWhDUmptUm4yQjU1X1UwY3BnbTRIRkhaamg5ZGxnZHB3Z3poWXRMNjJ2MHR3cW1nSHFaZWxvck03YWl5Y255VFhmbHhWUjBqeV93Sjhzb051amc?oc=5",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "With the economy in the doldrums, Albanese looks to AI for the answer",
+          "source": "ABC Australia",
+          "published": "Thu, 09 Jul 2026 19:05:40 +0000",
+          "link": "https://www.abc.net.au/news/2026-07-10/ai-economy-policy-and-regulation/106898882",
+          "ai_score": 60,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "source": "BBC World",
+          "published": "Thu, 09 Jul 2026 14:37:19 GMT",
+          "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+          "ai_score": 55,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+          "source": "BBC World",
+          "published": "Thu, 09 Jul 2026 16:15:10 GMT",
+          "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+          "ai_score": 55,
+          "priority_level": "Medium"
+        }
+      ]
+    },
+    {
+      "category": "Middle East",
+      "headline": "Top Middle East developments",
+      "articles": [
+        {
+          "title": "Tehran launches more strikes as Israel warns it is ready to strike Iran again ‘with even greater force’ – as it happened - The Guardian",
+          "source": "Google News Middle East",
+          "published": "Thu, 09 Jul 2026 07:02:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSzZmYVBxWmdLdUp5NUhCSXZrMnpVeG5lUWJSRTFMMDBuRUpfbHBJYlU3S0R4S1FwblBZZUhuUVZiODJ6OXRkUmhhRktaVXNIdUIweWdBZ1FWckZVTWxWV1FoOGpVbldETUk0cFRONXVXazJhaEh5aHRQQVYyell0amFnNVRZZ1JLZnZZX2hOT25WYkdsUEJoLWZ4NGVaSEF5SGlCel85c21HMENZc1M3RWltRG94Zkp0a1p1Z1FaM1hWR1ZaN0hNdVdJSmQ5c21GdVRjMTA4TmtuMU54?oc=5",
+          "ai_score": 55,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Top oil analyst Paul Sankey on the impact of Middle East tensions on energy markets - CNBC",
+          "source": "Google News Middle East",
+          "published": "Thu, 09 Jul 2026 12:44:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXFEWm1vempqS20xZ2pBVXA2UXZDcDFaOUp2SDByRXBmVXc5YU5LdGoweDk0cEVieFJHLXhnOHJzYUxxeWhFSk5YM0JXNkxwR2NhOVVScTVfdDNmT1M5ZXNEMHZ6cTBQUlEyMjNLYkU2UGZjc2RKX3Q0cktMNmRWZklOUk1HZGl4MDZBbllvajNMR2traW0zWXdDSmwzX2VIaHpmWTVkd2ZKdmJiZEU4VGl1eVRJeWdXSmZqVDJjbTRMMFhh?oc=5",
+          "ai_score": 45,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Gold gains over 1%; focus turns to Middle East tensions - Reuters",
+          "source": "Google News Middle East",
+          "published": "Thu, 09 Jul 2026 01:32:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX196NlhHT096R1N6VDR0SmJaSUhvb0tnWDFoTmEydEFHTl9QRHNPSVBTejM2eFhfLXFRa1ZHcWhnLWlVdVd1SGdmMHhTZ0FCTUpocm5WOW1NRVBHMWo0MzFIVkE2eXZJd2xvWGxGUTB1RFRIUFh2dWRlbFhtV3J1SklFOGUyYkk1RnlWSUJSQTlrX2N2dUZYV3pjTk1URlZMWmF4Y2lB?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Iran-US war latest: Tehran accuses Trump of strike near nuclear plant in fresh escalation of attacks - The Independent",
+          "source": "Google News Middle East",
+          "published": "Thu, 09 Jul 2026 19:06:55 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY21BS0FGWk0zdG5EM200bGU5RW01Skh4cC1tZHM0SzBZWVliUWMyZ2dHNlhWUEdEaEtPcVBCX1R4UlFuZXNPR29qLVNkYzJvOUVxZUdKaV9MeXlKMjZYMEhxMGo1NHpRTEQ0Zi1tOTNqakVWcGxmRzJQMURhUUV6TmgzcHpWWm9vcGVhQTZCTURuY0VVTHlkbHAtWGZ6QkE1bmZnREJhcmZtQlRvQlFYelo4alJTZ1JFbklF?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Spain styles itself as Israel's most fervent adversary, but its sanctions are far from comprehensive - Middle East Eye",
+          "source": "Middle East Eye",
+          "published": "Mon, 06 Jul 2026 14:00:38 GMT",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWhtNzhUMXczaG9hWVREa1JfbDM3WlN0SkJhN0pIZVJaOHMydHZkeHZrNVVodWZUZ1hwM0VwS00yOGxkVzZxbmxvMDNldzdlVnB2OExaZnphVC12d194VDFtUzd2UDR5VVNiUXBKdUVhSURJMlVQNXFzMGNkaGt4NXA3c1d2TDh5QkVISjNHMWpKVEVsNWFJbUZSVE1fbVFm?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        }
+      ]
+    },
+    {
+      "category": "Slovakia",
+      "headline": "Top Slovakia developments",
+      "articles": [
+        {
+          "title": "Pellegrini: S Tureckom máme rovnaký názor na vojenské konflikty",
+          "source": "Teraz.sk Slovakia",
+          "published": "Thu, 09 Jul 2026 16:29:00 +0200",
+          "link": "https://www.teraz.sk/slovensko/pellegrini-s-tureckom-mame-rovnaky-n/976785-clanok.html",
+          "ai_score": 25,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Pellegrini sa do štátnej vily zatiaľ nenasťahuje",
+          "source": "Teraz.sk Slovakia",
+          "published": "Thu, 09 Jul 2026 16:29:00 +0200",
+          "link": "https://www.teraz.sk/slovensko/pellegrini-sa-do-statnej-vily-zatial/976783-clanok.html",
+          "ai_score": 25,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Blanár odcestuje do Ríma na zasadnutie Priateľov západného Balkánu",
+          "source": "Teraz.sk Slovakia",
+          "published": "Thu, 09 Jul 2026 16:09:00 +0200",
+          "link": "https://www.teraz.sk/slovensko/blanar-odcestuje-do-rima-na-zasadnutie/976779-clanok.html",
+          "ai_score": 25,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Rada pre mediálne služby udelila viacero sankcií",
+          "source": "Teraz.sk Slovakia",
+          "published": "Thu, 09 Jul 2026 15:40:00 +0200",
+          "link": "https://www.teraz.sk/slovensko/rada-pre-medialne-sluzby-udelila-viace/976766-clanok.html",
+          "ai_score": 25,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Stavrovská reaguje na odkázanosť detí s autizmom",
+          "source": "Teraz.sk Slovakia",
+          "published": "Thu, 09 Jul 2026 15:24:00 +0200",
+          "link": "https://www.teraz.sk/slovensko/stavrovska-reaguje-na-odkazanost-det/976758-clanok.html",
+          "ai_score": 25,
+          "priority_level": "Low"
+        }
+      ]
+    },
+    {
+      "category": "Space",
+      "headline": "Top Space developments",
+      "articles": [
+        {
+          "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
+          "source": "NASA News",
+          "published": "Thu, 09 Jul 2026 15:42:58 +0000",
+          "link": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
+          "ai_score": 85,
+          "priority_level": "High"
+        },
+        {
+          "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
+          "source": "NASA News",
+          "published": "Wed, 08 Jul 2026 21:04:14 +0000",
+          "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
+          "ai_score": 75,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
+          "source": "NASA News",
+          "published": "Tue, 07 Jul 2026 17:48:49 +0000",
+          "link": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Deep space software upgrade for Hera’s asteroid visit",
+          "source": "European Space Agency",
+          "published": "Wed, 08 Jul 2026 14:44:00 +0200",
+          "link": "https://www.esa.int/Space_Safety/Hera/Deep_space_software_upgrade_for_Hera_s_asteroid_visit",
+          "ai_score": 70,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
+          "source": "NASA News",
+          "published": "Tue, 07 Jul 2026 18:00:00 +0000",
+          "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
+          "ai_score": 55,
+          "priority_level": "Medium"
+        }
+      ]
+    },
+    {
+      "category": "Fashion",
+      "headline": "Top Fashion developments",
+      "articles": [
+        {
+          "title": "Face to Face With Luxury Clients | BoF - The Business of Fashion",
+          "source": "Google News Fashion",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkxZODlWeDVWSmlfYWRGMjJnaERYcTRycHpnY2otZFhoaXBCaGpBX3pQRGp4eGJyU2dhYklKNUpOdW1kelFOcmFJSlNlb2RBV0lOWGxDUGVPYThmQkRoak8xX2xZTS11OWVWcTRRN0dWMVVLd1F4WVlsbUVQX3ZncQ?oc=5",
+          "ai_score": 50,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Luxury Clients Want Meaning More Than Status - The Business of Fashion",
+          "source": "Business of Fashion",
+          "published": "Mon, 06 Jul 2026 04:30:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzB4S05VU0tSMGFkaDc5WFp1enM2cGRjQUJRdU4wR2pqVEZDS1lKdmp3dDJORzRWN00wc3Y1cktDZlpneGVtTVhRM2g5alVuRUFySG15elc0SU1zd0FnXzJRakY3a05QNTdiM3RONnhyVlR0dllLS3RBQkI3TE1Pb2hGa2Z2TUdieGRmbmk0WFdIOXJWY2hFbkRibm5jazdKeGtERWs1X0h5V01iUDc1TWdRb2pvTGM?oc=5",
+          "ai_score": 50,
+          "priority_level": "Medium"
+        },
+        {
+          "title": "Another luxury fashion retailer closes 139 stores as merger fails - thestreet.com",
+          "source": "Google News Fashion",
+          "published": "Tue, 07 Jul 2026 16:36:55 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHBZZTVRZGFVdWNacm5DY0FjUUhNZTJVTTlkZlJ4MEpCZzVoS1BVU3JCbndnbGtSUEg0ZlV3ZU1CM3U4Y0MxSlNOb3RpajJ1TFhZaEUzSmlvZlM0cVljYmlFVHRjQ2VOb216TC1SVXNIbmh2dlVaa3M0Mkd1WUNLNGJnRFkzejV6ejl6TDhmNVg4N1JveFVvLXpDVDRITDdlckM0QUt3?oc=5",
+          "ai_score": 45,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Is Niche Dining Fashion’s Next Frontier? - voguebusiness.com",
+          "source": "Vogue Business",
+          "published": "Wed, 08 Jul 2026 04:30:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUtJZWlXWVlwZW1wT3I2T2hxSjRJdXc5czA1UWx5VEZzczJkWWMxVGRxeUNDalc1MDRVdXdDQmtvMEZHMVlEMVo1OEc2LUpjYjFVb2FQX0IwWmhabjBBeXlteFpjM1ZHUld6aEZBXzdFU0tLMGpGUjhVT2Q1OUJyMXNn?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        },
+        {
+          "title": "The Business of Fashion - The Business of Fashion",
+          "source": "Business of Fashion",
+          "published": "Thu, 16 Jun 2016 21:18:18 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lVW5uUmJoLUoyQzY1Y1JCdzJXNlZWYjNjUFlnZ3Rudko5Zy15RUtYbEF0ZW9uNDRRUE1rcDZrczE4c1VmU0JoY1VR?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        }
+      ]
+    },
+    {
+      "category": "Casting",
+      "headline": "Top Casting developments",
+      "articles": [
+        {
+          "title": "Casting call: Movie and TV roles available nationwide - KFYR-TV",
+          "source": "Google News Casting",
+          "published": "Sun, 21 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelpYcnljVTcxVlVxRUhPbTJvdFYtUDYyaHdqSDZkSVRpSnNhanJsNDJKR3Vyb3NoU0lqZ3NMczVoa2otV1p6bmJieS1ReFNHUDNnY0xpdzdmWFItUmJteXRCYXhPdWgwbVNmWTdEVkFnMmdYM2JiRGJtdElOOEZLaExmaUdOcTZvMXVV?oc=5",
+          "ai_score": 35,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Now Casting: Broadway’s ‘Warriors’ Musical Needs Talent + 3 More Gigs - Backstage",
+          "source": "Backstage Casting",
+          "published": "Mon, 29 Jun 2026 20:09:34 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVY5Sk5MZ0hIYThzdkYwSVVBajlFZFlKRU5HMjRHZ0xaS0xJcUNuMXZ0TVdBUnJwNUdmT0kwZUE3TTN3MmpIcnZwaGxIb0s2eHY0bUlmUXQxZDdobkE5ODZhMC1WQzhpWTZrNHV5TFFleU1yOTUwdU8zamUzRThnR2Vpc08tUQ?oc=5",
+          "ai_score": 35,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Pro-AI vs Anti-AI Debate - YouTube Casting Call | Cast Lab by MZ - TV / Series Auditions - The Mandy Network",
+          "source": "Mandy Casting",
+          "published": "Tue, 07 Jul 2026 19:16:16 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFQTN5Sy1pSl9kSnRHS3ByUkJCVFZCejloWnRCNGIyaTkxd1hvaF93eTQ0NnhfZ0dOS0p2aXhMdWp5U3FWaTBQVGQtVGh1RmVOS3BhcnFydEhzTFNZajBzWUh4TlZXZFd6c2xITFdTZzVKVWY5dGxoNy1B?oc=5",
+          "ai_score": 35,
+          "priority_level": "Low"
+        },
+        {
+          "title": "'Truck Stop' TV Series, 'Shadows' Feature Film, & More Casting Calls - Casting Networks",
+          "source": "Google News Casting",
+          "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdlptNjBncmp5eXV0QUlHSEh5VmF2T3J4U1lselVpTWUzR2hyTDdJOHUxLWlqVWxLNlF0UUR3VWV5TTdPRVlDbXFpdi1JSWRqVDN1bXpDUUx2NzgyQ0cyWEswQWpVeFkxdnJJWk16am9fTG9jbW1KNFpnSThVM3BpN3hfUWhNVlJmWldwbkpB?oc=5",
+          "ai_score": 28,
+          "priority_level": "Low"
+        },
+        {
+          "title": "'The Love Potion' Casting Call | Film Auditions - Backstage",
+          "source": "Backstage Casting",
+          "published": "Wed, 08 Jul 2026 19:25:10 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XenVXVF8zOFh6bTdmUjNXYVNXWEx5a0xXb1NQRk04cWpXVTRCQjk4dEMwT090aFpING5Fcm13Y2UtWTBEWm02ejNHRVFMOWtqX2R5MWMydnZuR3k5R2tFLWZCUzlPU3pJUHc?oc=5",
+          "ai_score": 28,
+          "priority_level": "Low"
+        }
+      ]
+    },
+    {
+      "category": "Culture",
+      "headline": "Top Culture developments",
+      "articles": [
+        {
+          "title": "'A distinct Canadian character': The 1920s paintings that changed how the world saw Canada - BBC",
+          "source": "BBC Culture",
+          "published": "Tue, 07 Jul 2026 11:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXl1Z2pkVlM1RlJSS25PSWc1cEhPUzFQYTRFbjJHaGEyaUpIYS1vYTNZVmZxTGdUczZoVks2eU9TWDdqa3FQdERjb25xenFWei1oOVpQVVBzU2lQNERzb0hPbmJjbURjZVgtT0FZYjY5M2RCRjl0VnlTWk9waEs2UHA3aGNBc3hjV2lGR09saDU4X0pyQTNDSkRVOHB5QlJOUEMtOQ?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        },
+        {
+          "title": "Masked men to morphine addiction: The original TV Little House on the Prairie was a true American horror story - BBC",
+          "source": "BBC Culture",
+          "published": "Thu, 02 Jul 2026 10:35:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmdjclpIdEFBX29UYlZPRDJwSEtmR3lTU3FOV1Z3ZXdReU4zdGFfdzRZeXBseS13NTQzaHFqTDdyNFVPMnVmUVZmRmZSeHc1X1FjTXdub2xqVFpCaEVsSGhOd24yZVgtSUxZeVdjbHBxRExSOGtoYkdLRmtzQzI4QUd2MUR2T3ZDUmxPeTc3WG9EZTlSa2xQYlJlbnJsNVZyYnhkX0EtZG5teGhsZ3dSNlBEUVpiaG9VRzRmZEdB?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        },
+        {
+          "title": "'Created amid high drama': The animals that symbolise pain and passion in a Frida Kahlo self-portrait - BBC",
+          "source": "BBC Culture",
+          "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGpfUUkxQ2RyTjZWN2oyR2RqTlBGZUFJSUMyZHlWNEdfM3JEREtXbWkzajhXd3hLcTl3VG9KNXNQWVprdVJTamttdnBWQWc1SUVNZ0I1NzZoSEg0RHdTUk1GZ0R2SXNfTmhRSC1kUWhxVjViZloyRzN0VEw3NnJleWhiSEpLdkhSazNPTEY0cy1lTlYwMGtUUWlR?oc=5",
+          "ai_score": 40,
+          "priority_level": "Low"
+        },
+        {
+          "title": "‘We’ve had moments of devastating pain’: jazz icons Ezra Collective on their new album – and why we can’t rely on the government",
+          "source": "The Guardian Culture",
+          "published": "Thu, 09 Jul 2026 15:12:35 GMT",
+          "link": "https://www.theguardian.com/music/2026/jul/09/weve-had-moments-of-devastating-pain-jazz-icons-ezra-collective-on-their-new-album-and-why-we-cant-rely-on-the-government",
+          "ai_score": 40,
+          "priority_level": "Low"
+        },
+        {
+          "title": "NYC Mayor's Office of Media and Entertainment and Art House New York Announce Inaugural Cinema Week - MOME - NYC.gov",
+          "source": "Google News Culture",
+          "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ekwzXzdGLVAzTmNUSlJac2o0LTFhblkxN1hUdkZVa2NBLUZwU3BJcXJYYXNsZERBQkh3Vlc0TmtUdmxTMUdMSG0waVVhMC1xQUtKY1B1NWZmOE1Yb1N5dThKX2dWUW5tR0NFUg?oc=5",
+          "ai_score": 25,
+          "priority_level": "Low"
+        }
+      ]
+    }
+  ]
+}

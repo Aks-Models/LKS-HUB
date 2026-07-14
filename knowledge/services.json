@@ -1,0 +1,470 @@
+{
+  "domain": "services",
+  "version": "2.0",
+  "updated_at": "2026-07-12",
+  "website": "https://lks.wh.sk",
+  "service_positioning": {
+    "summary": "Luis Kassem Sanz provides multilingual freelance services combining international business development, business intelligence, market research, commercial relations, project coordination, translation, cross-cultural communication and AI-assisted automation.",
+    "primary_markets": [
+      "Slovakia",
+      "Spain",
+      "Central Europe",
+      "Saudi Arabia",
+      "Egypt",
+      "Jordan",
+      "Middle East"
+    ],
+    "working_languages": [
+      "Spanish",
+      "English",
+      "Slovak",
+      "Arabic"
+    ],
+    "delivery_modes": [
+      "Remote",
+      "On-site",
+      "Hybrid",
+      "Project-based",
+      "Retainer-based",
+      "International assignment"
+    ]
+  },
+  "service_categories": [
+    {
+      "category": "Business Development",
+      "description": "Support for companies seeking new clients, partners, commercial relationships and market opportunities.",
+      "services": [
+        {
+          "name": "International Business Development",
+          "description": "Identification and development of commercial opportunities, business relationships and strategic partnerships across European and Middle Eastern markets.",
+          "deliverables": [
+            "Market-entry opportunity review",
+            "Partner and stakeholder identification",
+            "Commercial outreach support",
+            "Business introductions",
+            "Opportunity pipeline development",
+            "Strategic follow-up coordination"
+          ],
+          "ideal_clients": [
+            "Small and medium-sized companies",
+            "International companies",
+            "Entrepreneurs",
+            "Service providers",
+            "Organizations entering new markets"
+          ]
+        },
+        {
+          "name": "Commercial Representation Support",
+          "description": "Support with corporate representation, external communication and relationship management in international environments.",
+          "deliverables": [
+            "Representation support",
+            "Meeting coordination",
+            "Partner communication",
+            "Commercial correspondence",
+            "Follow-up reporting"
+          ]
+        },
+        {
+          "name": "Business Networking and Introductions",
+          "description": "Structured support for connecting clients with relevant business, institutional and commercial contacts.",
+          "deliverables": [
+            "Stakeholder mapping",
+            "Introductions",
+            "Meeting preparation",
+            "Relationship follow-up",
+            "Contact-development strategy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Business Intelligence",
+      "description": "Research and intelligence services that convert public information into structured business insight.",
+      "services": [
+        {
+          "name": "Market Intelligence",
+          "description": "Collection, filtering and analysis of public information relevant to markets, industries, competitors and commercial decisions.",
+          "deliverables": [
+            "Market summaries",
+            "Competitor monitoring",
+            "Industry research",
+            "Country and regional briefings",
+            "Opportunity and risk observations",
+            "Source-backed intelligence reports"
+          ]
+        },
+        {
+          "name": "Executive Intelligence Briefings",
+          "description": "Concise decision-support briefings for executives, founders and project leaders.",
+          "deliverables": [
+            "Executive summaries",
+            "Key developments",
+            "Risk indicators",
+            "Opportunity signals",
+            "Suggested next actions"
+          ]
+        },
+        {
+          "name": "News and Trend Monitoring",
+          "description": "Ongoing monitoring of business, politics, technology, security, finance and regional developments.",
+          "deliverables": [
+            "Curated news monitoring",
+            "Priority scoring",
+            "Daily or weekly summaries",
+            "Topic-specific alerts",
+            "Business-impact observations"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "International Expansion",
+      "description": "Practical support for companies considering entry into new geographic markets.",
+      "services": [
+        {
+          "name": "Market Entry Support",
+          "description": "Initial guidance for companies assessing expansion into Slovakia, Central Europe, Spain or selected Middle Eastern markets.",
+          "deliverables": [
+            "Market-entry overview",
+            "Local stakeholder mapping",
+            "Commercial-environment review",
+            "Cultural and communication guidance",
+            "Introductory market research",
+            "Potential partner identification"
+          ]
+        },
+        {
+          "name": "Cross-Border Commercial Coordination",
+          "description": "Coordination support between companies, partners and institutions operating across different countries.",
+          "deliverables": [
+            "Cross-border communication",
+            "Meeting coordination",
+            "Documentation support",
+            "Follow-up management",
+            "Stakeholder alignment"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Middle East Consulting",
+      "description": "Cross-cultural and commercial support for clients engaging with Arabic-speaking markets.",
+      "services": [
+        {
+          "name": "Middle East Business Support",
+          "description": "Commercial and communication support informed by professional experience in Saudi Arabia and broader regional familiarity.",
+          "deliverables": [
+            "Business-culture guidance",
+            "Arabic-language communication support",
+            "Commercial correspondence",
+            "Stakeholder preparation",
+            "Meeting support",
+            "Regional market context"
+          ]
+        },
+        {
+          "name": "Saudi Arabia Market Support",
+          "description": "Practical support for companies exploring business development, partnerships or representation in Saudi Arabia.",
+          "deliverables": [
+            "Market-context briefing",
+            "Commercial communication support",
+            "Partner and stakeholder research",
+            "Business meeting preparation",
+            "Relationship-development support"
+          ]
+        },
+        {
+          "name": "Arabic Communication and Interpretation Support",
+          "description": "Multilingual communication support for business, institutional and project contexts.",
+          "deliverables": [
+            "Arabic-English communication support",
+            "Arabic-Spanish communication support",
+            "Arabic-Slovak communication support",
+            "Interpretation support",
+            "Translation support",
+            "Cross-cultural clarification"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "AI and Automation",
+      "description": "Free-first and practical AI-assisted systems for research, intelligence, content and workflow support.",
+      "services": [
+        {
+          "name": "AI-Assisted Business Intelligence Systems",
+          "description": "Design of lightweight systems that collect, filter, score and summarize business-relevant information.",
+          "deliverables": [
+            "RSS intelligence pipeline",
+            "Automated data collection",
+            "Duplicate detection",
+            "Relevance scoring",
+            "Knowledge-base integration",
+            "Executive summaries",
+            "Website data export"
+          ]
+        },
+        {
+          "name": "Knowledge Base Design",
+          "description": "Structured knowledge systems for organizations, personal brands and websites.",
+          "deliverables": [
+            "Knowledge-domain architecture",
+            "SQLite knowledge base",
+            "Structured JSON knowledge files",
+            "Search and retrieval tools",
+            "Assistant context preparation",
+            "Content-governance rules"
+          ]
+        },
+        {
+          "name": "AI Assistant Architecture",
+          "description": "Planning and development of assistants that answer questions from verified business, profile, service and news knowledge.",
+          "deliverables": [
+            "Intent routing",
+            "Knowledge retrieval",
+            "Domain-specific search",
+            "Assistant-response architecture",
+            "Website-assistant integration planning",
+            "Social-content drafting workflows"
+          ]
+        },
+        {
+          "name": "Social Media Draft Automation",
+          "description": "AI-assisted preparation of draft posts based on approved intelligence and business topics.",
+          "deliverables": [
+            "LinkedIn drafts",
+            "Facebook drafts",
+            "Instagram captions",
+            "Topic-based social summaries",
+            "Source-linked post drafts",
+            "Approval-ready content packages"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Project Management",
+      "description": "Coordination and operational support for international, commercial, institutional and digital projects.",
+      "services": [
+        {
+          "name": "Project Coordination",
+          "description": "Support with organizing tasks, stakeholders, documentation, timelines and communication.",
+          "deliverables": [
+            "Project planning",
+            "Task coordination",
+            "Stakeholder follow-up",
+            "Meeting preparation",
+            "Progress reporting",
+            "Documentation organization"
+          ]
+        },
+        {
+          "name": "Meeting and Conference Support",
+          "description": "Preparation, coordination and follow-up for business, institutional and international meetings.",
+          "deliverables": [
+            "Agenda preparation",
+            "Participant coordination",
+            "Presentation support",
+            "Briefing preparation",
+            "Meeting notes",
+            "Follow-up actions"
+          ]
+        },
+        {
+          "name": "Administrative and Operations Support",
+          "description": "Structured support for administration, documentation, procurement, HR coordination and operational follow-up.",
+          "deliverables": [
+            "Administrative coordination",
+            "Document preparation",
+            "HR-support tasks",
+            "Procurement support",
+            "Data organization",
+            "Operational follow-up"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Translation and Multilingual Communication",
+      "description": "Professional multilingual support across business, institutional and public-facing contexts.",
+      "services": [
+        {
+          "name": "Translation",
+          "description": "Translation support involving Spanish, English, Slovak and Arabic, subject to project scope and technical complexity.",
+          "deliverables": [
+            "Business correspondence",
+            "Presentations",
+            "General documents",
+            "Website content",
+            "Commercial communication",
+            "Institutional communication"
+          ]
+        },
+        {
+          "name": "Interpretation",
+          "description": "Interpretation support for meetings, consultations, commercial discussions and institutional contexts.",
+          "deliverables": [
+            "Business-meeting interpretation",
+            "Conference support",
+            "Commercial discussions",
+            "Institutional communication",
+            "Cross-cultural mediation"
+          ]
+        },
+        {
+          "name": "Cross-Cultural Communication",
+          "description": "Support for communication between European and Arabic-speaking stakeholders.",
+          "deliverables": [
+            "Communication preparation",
+            "Cultural-context guidance",
+            "Terminology clarification",
+            "Message adaptation",
+            "Meeting support"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Public Relations and Communications",
+      "description": "Support for professional messaging, corporate communication, presentation and relationship development.",
+      "services": [
+        {
+          "name": "Corporate Communications",
+          "description": "Preparation and coordination of professional communication for companies, projects and institutional stakeholders.",
+          "deliverables": [
+            "Corporate correspondence",
+            "Stakeholder communication",
+            "Presentation content",
+            "Business messaging",
+            "Follow-up communication"
+          ]
+        },
+        {
+          "name": "Public Relations Support",
+          "description": "Support with external communication, relationship building and public-facing project coordination.",
+          "deliverables": [
+            "PR planning support",
+            "Media and stakeholder communication",
+            "Event communication",
+            "Public-facing messaging",
+            "Relationship management"
+          ]
+        },
+        {
+          "name": "Presentation and Briefing Preparation",
+          "description": "Creation and preparation of presentations, reports and briefing materials.",
+          "deliverables": [
+            "Presentation structure",
+            "Executive briefing notes",
+            "Meeting materials",
+            "Research-backed content",
+            "Multilingual presentation support"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Creative and Media",
+      "description": "Creative services informed by Luis's experience in acting, singing, television, theatre, voice work and live performance.",
+      "services": [
+        {
+          "name": "Acting and Performance",
+          "description": "Availability for suitable film, television, commercial, theatre and character-based performance assignments.",
+          "deliverables": [
+            "Acting",
+            "Character performance",
+            "Commercial performance",
+            "Corporate productions",
+            "Live performance"
+          ]
+        },
+        {
+          "name": "Voice and Multilingual Media Work",
+          "description": "Voice, narration and multilingual performance support for suitable productions.",
+          "deliverables": [
+            "Voice-over",
+            "Narration",
+            "Multilingual delivery",
+            "Corporate audio content",
+            "Media production support"
+          ]
+        },
+        {
+          "name": "Creative Project Support",
+          "description": "Coordination and communication support for creative, casting, media and entertainment projects.",
+          "deliverables": [
+            "Creative-project coordination",
+            "Casting support",
+            "Production communication",
+            "Multilingual liaison",
+            "Artist and stakeholder coordination"
+          ]
+        }
+      ]
+    }
+  ],
+  "engagement_process": [
+    {
+      "step": 1,
+      "name": "Initial Consultation",
+      "description": "Clarify objectives, market, scope, timeline and expected outcomes."
+    },
+    {
+      "step": 2,
+      "name": "Scope Definition",
+      "description": "Define services, deliverables, responsibilities and practical limitations."
+    },
+    {
+      "step": 3,
+      "name": "Quotation or Proposal",
+      "description": "Provide a project-specific quotation or proposal where appropriate."
+    },
+    {
+      "step": 4,
+      "name": "Execution",
+      "description": "Deliver agreed research, coordination, communication, intelligence or project support."
+    },
+    {
+      "step": 5,
+      "name": "Review and Follow-Up",
+      "description": "Review results, clarify next actions and determine whether continued support is required."
+    }
+  ],
+  "service_boundaries": {
+    "not_legal_advice": true,
+    "not_financial_advice": true,
+    "not_tax_advice": true,
+    "not_licensed_recruitment_unless_separately_authorized": true,
+    "not_guaranteed_market_entry": true,
+    "not_guaranteed_business_results": true,
+    "notes": [
+      "Services are advisory, research, communication, coordination or project-support services unless otherwise agreed in writing.",
+      "Specialized legal, tax, accounting, regulated recruitment or financial matters should be handled by appropriately licensed professionals.",
+      "Commercial outcomes depend on market conditions, client decisions, counterparties and external factors."
+    ]
+  },
+  "assistant_rules": {
+    "always_recommend_contact": true,
+    "never_invent_prices": true,
+    "never_invent_availability": true,
+    "never_guarantee_results": true,
+    "never_claim_regulated_professional_status": true,
+    "encourage_consultation": true,
+    "response_rules": [
+      "Recommend only services present in this verified services file.",
+      "Do not invent prices, timelines, clients or outcomes.",
+      "Explain that scope and fees depend on the assignment.",
+      "Distinguish Luis's freelancer services from AKS MODELS company services.",
+      "When a request requires legal, tax, accounting or regulated professional advice, recommend consulting an appropriately licensed professional.",
+      "When a user asks whether Luis can help, identify the most relevant service category and suggest an initial consultation."
+    ]
+  },
+  "evidence_basis": [
+    "Embassy administrative, commercial, bilateral-relations, translation and interpretation experience",
+    "International business-development roles in Slovakia and Saudi Arabia",
+    "Corporate representation and marketing-communications experience",
+    "Academic teaching and course-development experience",
+    "LKS-HUB intelligence, automation and knowledge-base development",
+    "Multilingual professional and creative experience"
+  ]
+}

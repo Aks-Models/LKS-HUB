@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>LKS HUB Intelligence</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="dashboard">
+
+        <header class="hero">
+            <div class="hero-inner">
+
+                <div class="hero-line"></div>
+
+                <h1>LKS HUB</h1>
+
+                <h2>GLOBAL INTELLIGENCE PLATFORM</h2>
+
+                <div class="hero-line"></div>
+
+                <p>
+                    Powered by AI • Business Intelligence • RSS Engine
+                </p>
+
+            </div>
+        </header>
+
+        <section class="stats">
+
+            <div class="stat">
+                <span>Total Articles</span>
+                <strong id="totalArticles">0</strong>
+            </div>
+
+            <div class="stat">
+                <span>Categories</span>
+                <strong id="totalCategories">0</strong>
+            </div>
+
+            <div class="stat">
+                <span>Highest Score</span>
+                <strong id="highestScore">0</strong>
+            </div>
+
+            <div class="stat">
+                <span>Status</span>
+                <strong>LIVE</strong>
+            </div>
+
+        </section>
+
+        <section class="controls">
+
+            <input
+                type="text"
+                id="search"
+                placeholder="Search title, source, country, region..."
+            >
+
+            <div id="buttons"></div>
+
+        </section>
+
+        <section>
+            <h2 class="section-title">Top Intelligence</h2>
+
+            <div id="content">
+                Loading intelligence...
+            </div>
+        </section>
+
+        <section class="assistant-section">
+
+            <div class="assistant-header">
+
+                <div>
+                    <span class="assistant-label">
+                        LKS AI ASSISTANT
+                    </span>
+
+                    <h2>
+                        Ask about Luis, services, projects or intelligence
+                    </h2>
+
+                    <p>
+                        Answers are generated from the verified LKS-HUB
+                        knowledge base and stored intelligence.
+                    </p>
+                </div>
+
+                <div
+                    id="assistantStatus"
+                    class="assistant-status checking"
+                >
+                    Checking API
+                </div>
+
+            </div>
+
+            <div
+                id="chatMessages"
+                class="chat-messages"
+                aria-live="polite"
+            >
+                <div class="chat-message assistant-message">
+                    <div class="message-role">LKS AI</div>
+
+                    <div class="message-content">
+                        Hello. Ask me about Luis Kassem Sanz, his services,
+                        LKS-HUB, AKS Models or current intelligence.
+                    </div>
+                </div>
+            </div>
+
+            <form
+                id="assistantForm"
+                class="assistant-form"
+            >
+                <textarea
+                    id="assistantQuestion"
+                    rows="3"
+                    maxlength="2000"
+                    placeholder="Ask LKS AI..."
+                    required
+                ></textarea>
+
+                <button
+                    id="assistantSend"
+                    type="submit"
+                >
+                    Ask LKS AI
+                </button>
+            </form>
+
+            <div class="assistant-suggestions">
+
+                <button
+                    type="button"
+                    class="suggestion-button"
+                    data-question="Who is Luis Kassem Sanz?"
+                >
+                    Who is Luis?
+                </button>
+
+                <button
+                    type="button"
+                    class="suggestion-button"
+                    data-question="What services does Luis offer?"
+                >
+                    Luis's services
+                </button>
+
+                <button
+                    type="button"
+                    class="suggestion-button"
+                    data-question="What is LKS-HUB?"
+                >
+                    What is LKS-HUB?
+                </button>
+
+                <button
+                    type="button"
+                    class="suggestion-button"
+                    data-question="What is the difference between LKS-HUB and AKS Models?"
+                >
+                    LKS-HUB vs AKS
+                </button>
+
+                <button
+                    type="button"
+                    class="suggestion-button"
+                    data-question="Can Luis help my company expand into Saudi Arabia?"
+                >
+                    Saudi expansion
+                </button>
+
+            </div>
+
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

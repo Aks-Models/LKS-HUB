@@ -1,0 +1,524 @@
+{
+  "generated_at": "2026-07-09T20:21:21.869965+00:00",
+  "project": "LKS HUB",
+  "purpose": "AI assistant context for Luis Kassem Sanz freelancer website and intelligence dashboard.",
+  "total_articles": 920,
+  "categories": {
+    "World": 208,
+    "Slovakia": 75,
+    "Politics": 71,
+    "AI": 65,
+    "Middle East": 61,
+    "Science": 60,
+    "Finance": 60,
+    "Space": 53,
+    "Security": 51,
+    "Casting": 49,
+    "Culture": 45,
+    "Fashion": 43,
+    "Technology": 40,
+    "Business": 39
+  },
+  "top_articles": [
+    {
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "source": "TechCrunch",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 100,
+      "priority_level": "High",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
+    },
+    {
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+      "source": "BleepingComputer",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 100,
+      "priority_level": "High",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/"
+    },
+    {
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "source": "BleepingComputer",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 100,
+      "priority_level": "High",
+      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/"
+    },
+    {
+      "title": "Oil prices hover near pre-conflict levels as OPEC+ boosts output again - Fox Business",
+      "source": "Google News Business",
+      "category": "Business",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 90,
+      "priority_level": "High",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkNoTG5aUlhwNXRMdk1hN3dUZV9RRkhCWFA0Ul9oMTRiZUlfWGNNQlV4VjkzamwxMXQ0VnJ0dlVXZGVYendtNTN5SDNvdGNKX2hHSlhsQTBBMzRJMDQtUm9xRDFicEU5THVmdV9rd2kxSW8wMndST2MzV2l3ZmVpYUdpZHdZQ0dNMFhSRE1EbVpEOUFhV29iRm9NbmRaZU41Wk130gGoAUFVX3lxTE5WSVpvZE9sRFp1VVVoTTVvZzlLaF9XRE8zM0FZS05JMm9NQUhuRTZQQXcxaURUQlJOd0ZDSlJvM1dRSmFacVNqMnJsTG1zeUpBYzdVeEhZb0NKUkYxM0VOX2tDa1FzQnIydDhkYW5PZThrU3F2YmNFekxqQkF3NnRhaVJ5UlZSbGJ5THVhTUZJMWltUmZ5aGpQMWxZOEhEZjZuLU05VW9LQw?oc=5"
+    },
+    {
+      "title": "New technology, old patterns: Why artificial intelligence struggles to outgrow gender bias - Straight Arrow News - SAN - Unbiased. Straight Facts.",
+      "source": "Google News AI",
+      "category": "AI",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 90,
+      "priority_level": "High",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUl3UzlPcEh5LS1uQTc0OFVjTU1YcVNHTElOdzN2VEJBd2dUeUllY2RCR05vTDdxN1BwVDdUbXROSDIwMkozeVNJcGs0WTJyUFhmUU01Tmt6YWh0Vjc3VnYtaEZfUEszTldCV1l5d2RVVkFfa2x0VktFZXU5Q2NhRHkxcWRmUlQ1YXRhRndEQ1EyemotcEkyY2xPSHZ1RG5DUTBvV0hmT0ZGTUF2?oc=5"
+    },
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "source": "Krebs on Security",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 90,
+      "priority_level": "High",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/"
+    },
+    {
+      "title": "SpaceX stock in focus as launch, Starlink business hit new milestones - Yahoo Finance",
+      "source": "Google News Science",
+      "category": "Science",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 90,
+      "priority_level": "High",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVVFWFVueXFwMTRTSWVfYUZZVFpZaVRWbFJDc2d6X2N3cUVNMVdab0NVOTJETXhOdTd2WFAxWHJhd0N5X3RySXYtSThKWXkyemVsRzNxUmFmUFVxWDZXNm9vckZxYUlPZGJpTUxxTjdtaFMwY2pJcEVQRXlLLWlDaXFZSUdqNjZXVG1FVjQ3d0RYRWpBV3pPZmFzSWwxdTFrZ3h5VDYyUkJkY0E2cnFVZWF3TzFxU1hiT1c2Y3FLaVAzYkVKV1hnUUk2ZGw?oc=5"
+    },
+    {
+      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+      "source": "CNBC Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 87,
+      "priority_level": "High",
+      "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html"
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "source": "TechCrunch",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+    },
+    {
+      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+      "source": "The Hacker News",
+      "category": "Security",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
+    },
+    {
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "source": "The Hacker News",
+      "category": "Security",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
+    },
+    {
+      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+      "source": "The Hacker News",
+      "category": "Security",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://thehackernews.com/2026/07/european-parliament-member.html"
+    },
+    {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "source": "Krebs on Security",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
+    },
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "source": "Krebs on Security",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
+    },
+    {
+      "title": "War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll - Reuters",
+      "source": "Reuters World",
+      "category": "World",
+      "country": "United Kingdom",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjhUa3pVV3JMQjc0TG9ENzJldjBjZkxnV0ZwcTdyMy1YOFY0aU95c25idlRET0ItN2VQWTZIY05WZF9SclF2bFRadl91MGFkdGVnWC1sckRGWkNoamtuU0xjb1dIRVVkR1kzMlNpUUNFd01DZ1k2Qm81bXdPbUFsaVUtaEpNdmxHMEM3eV85amNxLWhsSzdTOXhEUHltUkNDVzNYMEQ5VjY?oc=5"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "source": "TechCrunch",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
+    },
+    {
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
+    },
+    {
+      "title": "In a 3.5-billion-year-old clay-rich rock from Gale Crater, NASA’s Curiosity rover identified 21 carbon-based molecules — including a nitrogen-bearing ring structure linked to the chemistry that can precede RNA and DNA — showing that ancient Martian sedime - Space Daily",
+      "source": "Google News Science",
+      "category": "Science",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQUEhUeS1TSGtzS3VPV01DT0VsYWN1WUVfVzE4dXVBeFljeXFjOVJkcm1GakZmaTlIZ2VXT3BaZW80Q2x6czFVQThfLVF3cnlCa2ktMlBUWFNmMHI4Y2FCOUc5QlpCb0pBN2ZvVVVYbFpLQzUzUVB4SklhbmE0cVZ6bjZnektodzhLOVpPN0pudnVQQnhyc2VWQ3FRWTNQa3ZGNnFiWWpJWGJsekEwczhCcEpBdDRzekRHalo1V3FyZ29nY2l3cUR0VkpETmFuMFdKWGtCcURqbXJPSmkyTF9sZF9mTkNrOW4xZFZwaWd5U3BQTUdtUGV1d3VtaDE3cmI0cVRKdUE2WWpLLUF2SmF3bGpFazR5NWJnY3VWbkV5bjZYdXdEV2hfaGxMcUIxSmM?oc=5"
+    },
+    {
+      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
+      "source": "NASA News",
+      "category": "Space",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 85,
+      "priority_level": "High",
+      "link": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/"
+    },
+    {
+      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+      "source": "CNBC Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 82,
+      "priority_level": "High",
+      "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html"
+    },
+    {
+      "title": "First known congressional SpaceX stock buys surface after record IPO",
+      "source": "CNBC Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 82,
+      "priority_level": "High",
+      "link": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html"
+    },
+    {
+      "title": "Dow Jones Futures: Expect Market Fireworks; Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "source": "Yahoo Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Rate hike readjustment and AI hardware momentum: What to watch this week",
+      "source": "Yahoo Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html"
+    },
+    {
+      "title": "How NVIDIA Corporation’s (NVDA) AI Factory Model Could Turn Blackwell Demand Into Usage-Linked Revenue",
+      "source": "Yahoo Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-ai-factory-131817409.html"
+    },
+    {
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "source": "VentureBeat AI",
+      "category": "AI",
+      "country": "United States",
+      "region": "North America",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "source": "TechCrunch",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+    },
+    {
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/"
+    },
+    {
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "source": "The Hacker News",
+      "category": "Security",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
+    },
+    {
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "source": "BleepingComputer",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/"
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "source": "TechCrunch",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "source": "TechCrunch",
+      "category": "Technology",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
+    },
+    {
+      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+      "source": "BleepingComputer",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/"
+    },
+    {
+      "title": "Who is Count Binface, aiming to face Farage in by-election?",
+      "source": "BBC Politics",
+      "category": "Politics",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "ai_score": 80,
+      "priority_level": "High",
+      "link": "https://www.bbc.co.uk/news/videos/cp8r70vpj97o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Stock Market Today: Dow Builds Gains Amid U.S.-Iran News; Arm, Dell Lead Upside (Live Coverage) - Investor's Business Daily",
+      "source": "Google News Business",
+      "category": "Business",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 75,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREwyaFhQbTlOYUlKWF8xRmY3dm9iaGdXdXhLVjVaZ2pvTUZHWWRyamp6TTB6bFFlRzNGazBKcm1kd25sUU9wTHFrRFNMY1FYT2dxS0V1MFFVZXA3S2xiQ1dwbjNBSE9FeElEVkRXMDN4N3kzVElEb0tWSjVnLWREYnh2S0ZtbzJqRmZVWmkzQVhGRmRpSzRody1lX1FodlZCZlBnOGVsZw?oc=5"
+    },
+    {
+      "title": "Where Medicine and Artificial Intelligence Converge - New York Institute of Technology",
+      "source": "Google News AI",
+      "category": "AI",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 75,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYm9OcHdIMjNBMVpleHFIdGxhOXZFRHhkUTlsdXVLenpJcFVMN0dvZE5MOTJIbTk4TXdoMF9KRktNNmxWdHBHcF8wWUk0ei0taUxEdm9RNDdLX2czSHJSbTc3cWRTLTB6UjZiZGp2LWxONzNoSVU0b2ctWk92OHJiSzRGS0ZNTTh6a1NSaUdsR2M?oc=5"
+    },
+    {
+      "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
+      "source": "NASA News",
+      "category": "Space",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 75,
+      "priority_level": "Medium",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/"
+    },
+    {
+      "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+      "source": "CNBC Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 72,
+      "priority_level": "Medium",
+      "link": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html"
+    },
+    {
+      "title": "How all 50 U.S. states performed over 20 years of Top States for Business",
+      "source": "CNBC Finance",
+      "category": "Finance",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 72,
+      "priority_level": "Medium",
+      "link": "https://www.cnbc.com/2026/07/09/top-states-business-all-time-rankings-since-2007.html"
+    },
+    {
+      "title": "A timeline of territorial shifts in Ukraine war - AP News",
+      "source": "Associated Press Top News",
+      "category": "World",
+      "country": "United States",
+      "region": "North America",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEE4SWgtZEt2V1ZvRFdwZmxLNFNJeXgwelpmc2dXMGhZeV9HSVVkT3ZaYW5fZkR4TV94R2JFN0JvbEwtblViSUladnV6Wi02ejJmVGczMktnUEVlQWhDUmptUm4yQjU1X1UwY3BnbTRIRkhaamg5ZGxnZHB3Z3poWXRMNjJ2MHR3cW1nSHFaZWxvck03YWl5Y255VFhmbHhWUjBqeV93Sjhzb051amc?oc=5"
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "source": "OpenAI News",
+      "category": "AI",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://openai.com/index/hp-frontier-partnership"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "source": "OpenAI News",
+      "category": "AI",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+    },
+    {
+      "title": "How Amazon Bedrock catches AI-generated phishing | Artificial Intelligence - Amazon Web Services (AWS)",
+      "source": "Google News AI",
+      "category": "AI",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczNtVFFhSzZpUmZueHU3YnhodjJaZ2FBX1lMeEdVVGw0OHZhcGZ4Zi1idGhnZ3gxazByNmNaa2tHR0prQlBpSEYwVkxSVGM0QU84eG91OWRuNk9zSWVYSWgydFU1aE05a0Mzc3NGN0tFZlNERjVxNzVCczJNQkpHeEtvajR5cnM0M0tDYl9PNnRBeVo2NngtdFhsZw?oc=5"
+    },
+    {
+      "title": "Verified Machine Learning Infrastructure: Formal Methods for Trustworthy Artificial Intelligence Deployment - RAND",
+      "source": "Google News AI",
+      "category": "AI",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51S211X29WTGZCWDdnVDdLZExOSFBEV2xLSjRfVTMyNHM1X0I1U1FoaVJsT1pfYWhJRWpwX1VBclNIZTRhXzN4V2Q3NTlwRG5aWDYyZTE1cS1fNWlSeWJIQWdkRFNIX0Mz?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence (AI): At a Glance - Encyclopedia Britannica",
+      "source": "Google News AI",
+      "category": "AI",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTdIdFBYUXlmRjdxUUstQWFxMnVleDlKMjVvc094T2NBSnlNeEQ3Q3dPNHpSS1lJdEhoQVQyTDQzQ0VMb1haUVFPOHpMTDJiUTRNZEhBY3dFQ0xWaV9uMy1WbVFWemFBaE95SndSOUdqX0szNDhuT2hWUWZ3RzF0X0ZidTlxa3ZTMEg3RA?oc=5"
+    },
+    {
+      "title": "What is Artificial Intelligence (AI)? - Databricks",
+      "source": "Google News AI",
+      "category": "AI",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tZmFCTHZVOFZjbkdoSHAtRy1TMEtOVjNhMjk3TU43T2kyX3ZTMUhibk0wVnU4TG1vc2RKek5RbTcta2hlblBFX0RzQ1czZS1DZjdfbV8wckFlMlFpOFZEVkRoWF92eFZiM2xVYUUyeXY?oc=5"
+    },
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "source": "Krebs on Security",
+      "category": "Security",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/"
+    },
+    {
+      "title": "The James Webb Space Telescope has detected the same unexplained absorption signal on the surfaces of Pluto and Titan — two frozen worlds with very different environments but methane-and-nitrogen chemistry in common — and so far, scientists cannot - Space Daily",
+      "source": "Google News Science",
+      "category": "Science",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQ1FqLUFoUG9ObWNGRkxza25IWTVFSlFwS0p6VDBXaUl1SjU0LUVlVUEtUnVNTkdpcnlwcXM4MS1BWGRPaU5xc3cyT09xaDZGMW4zX3N0VUcyYmR0ejEtcjhBRmdsSWdQSGhCajY1N05rVTV6VGotQW9mUjhWNHRQX3Z5TWlISHRUNWt6TnFjd3lJeXd6YUFiLTBkekxuOXh2Zko0QkNQOHltV2M3Q2N6blIyU2RkZlM5Yllacm9aT1ZXRmZWSFVBR3lNN3ZQbERxYUNERFJYUHRUNW9LdHFEb3gwRTVjV09vOVduYUpkSG13R0lDVXJaUWJKQmI2X0xmUGdiU0Y3UUZCRi1LSkVFMXFjTEZBejhBWXFkaE95dWtqMzRtSk1WSXZiSS1VRDdrWjkyWEs5MXdZWEVB?oc=5"
+    },
+    {
+      "title": "The Voyager 1 probe, launched in 1977, is now so far from Earth that a radio signal travelling at the speed of light takes over 22 hours to reach it, and it is still sending data back from interstellar space on a power source the size of a car battery - Space Daily",
+      "source": "Google News Science",
+      "category": "Science",
+      "country": "Global",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZEQ5RFVoOWZwQXJ3M3JhOFZiVlZZb1pIUlRnaFV3RUNNRDdjWFBLbkkzbkstNkdaVWlmRVRpblNQN3ltbTE0T2w2ZDA4V3FTRnMwZTZ1RWxFbm5aa1AxOFlPR1pnWUdXZEphblA2cmUyX1lpekdJX0dnNHRSVkdoRFgyVWZwSWw3VnJNakhwSWtRY3p4Y192UDVEcy11YUFMaUJTSjVjZkZGNVp1U3REVVRqVDlTVzRXMUxxa1dxUkUyRjFBcnpNY1dKOUdrYWpBVWxOT3hvWlZEbDNFVGZrT1VKMnI3T3FEbHVsWFF4SkxMdEpMLVJCVHhfd2UxeXlzLU1wc2tGNUFwWjdLUkNsTjFzalprVHBOTnVKaTNpeHhxRmNHcDZJWmZNVVQzd0ttRHg4aXNEU1gtLWZ6ZTlnajRvOW8xUQ?oc=5"
+    },
+    {
+      "title": "NASA celebrates America's 250th birthday with incredible views of space",
+      "source": "ScienceDaily",
+      "category": "Science",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260702230859.htm"
+    },
+    {
+      "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
+      "source": "NASA News",
+      "category": "Space",
+      "country": "United States",
+      "region": "Global",
+      "ai_score": 70,
+      "priority_level": "Medium",
+      "link": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/"
+    }
+  ]
+}

@@ -1,6 +1,4 @@
-"use strict";
-
-const ASSISTANT_API = "http://127.0.0.1:8080";
+const ASSISTANT_API = "https://lks-hub.onrender.com";
 
 let allArticles = [];
 let currentCategory = "All";
@@ -80,8 +78,7 @@ async function loadIntelligence() {
 
         content.innerHTML = `
             <div class="error">
-                Could not load website_data.json.<br>
-                ${escapeHtml(error.message)}
+                The intelligence feed is temporarily unavailable.
             </div>
         `;
     }
@@ -447,16 +444,18 @@ async function askAssistant(question) {
         );
 
     } catch (error) {
-        console.error(error);
+        console.error(
+            "Assistant request failed:",
+            error
+        );
 
         thinkingMessage.remove();
 
         addChatMessage(
             "assistant",
             (
-                "The LKS AI Assistant is currently unavailable. "
-                + "Make sure assistant_api.py is running on port 8080.\n\n"
-                + `Technical detail: ${error.message}`
+                "The LKS AI Assistant is temporarily unavailable. "
+                + "Please try again shortly."
             ),
             "error-message"
         );
